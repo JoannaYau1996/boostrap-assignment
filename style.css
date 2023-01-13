@@ -31,3 +31,7 @@ a {
 .card img {
   object-fit: cover !important;
 }
+
+.accordion-button::after {
+  display: none;
+}
